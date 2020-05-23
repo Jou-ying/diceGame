@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD280A8B2478C12B00AD6B33 /* 轉動音效.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CD280A8A2478C12B00AD6B33 /* 轉動音效.mp3 */; };
 		CDEF715C246FDC6C0037E264 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF715B246FDC6C0037E264 /* AppDelegate.swift */; };
 		CDEF715E246FDC6C0037E264 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF715D246FDC6C0037E264 /* SceneDelegate.swift */; };
 		CDEF7160246FDC6C0037E264 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF715F246FDC6C0037E264 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD280A8A2478C12B00AD6B33 /* 轉動音效.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "轉動音效.mp3"; sourceTree = "<group>"; };
 		CDEF7158246FDC6C0037E264 /* diceGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diceGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDEF715B246FDC6C0037E264 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDEF715D246FDC6C0037E264 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				CDEF7164246FDC6E0037E264 /* Assets.xcassets */,
 				CDEF7166246FDC6E0037E264 /* LaunchScreen.storyboard */,
 				CDEF7169246FDC6E0037E264 /* Info.plist */,
+				CD280A8A2478C12B00AD6B33 /* 轉動音效.mp3 */,
 			);
 			path = diceGame;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				CDEF7168246FDC6E0037E264 /* LaunchScreen.storyboard in Resources */,
 				CDEF7165246FDC6E0037E264 /* Assets.xcassets in Resources */,
 				CDEF7163246FDC6C0037E264 /* Main.storyboard in Resources */,
+				CD280A8B2478C12B00AD6B33 /* 轉動音效.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
